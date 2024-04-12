@@ -9,6 +9,8 @@ This Python script allows you to manage your movie directory by extracting movie
 - **Mark Movies**: Based on predefined criteria, it marks each movie in a CSV file for removal or retention.
 - **Remove Movies**: It deletes movies from the specified directory based on their mark.
 
+![movies aoutput in CSV](https://github.com/Sir-Sorg/Manage-Movie/assets/66873974/a4e30e2a-c99b-45e0-b64f-51ee602c71b0)
+
 ## Requirements
 
 - Python 3.x
