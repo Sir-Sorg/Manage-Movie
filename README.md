@@ -28,15 +28,16 @@ This Python script allows you to manage your movie directory by extracting movie
     cd your-repository
     ```
 
-3. **Run the Script**:
+3. **Open the Notebook**:
 
-    ```bash
-    python movie_directory_manager.py
-    ```
+    - Launch Jupyter Notebook.
+    - Navigate to the directory where the notebook is located.
+    - Open `Movies.ipynb`.
 
 4. **Follow the Instructions**:
+    - Execute each cell in the notebook.
     - Provide the path to your desired directory containing MKV files.
-    - Sit back and let the script do its magic!
+    - Sit back and let the notebook do its magic!
 
 ## Additional Notes
 
